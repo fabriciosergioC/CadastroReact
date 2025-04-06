@@ -20,7 +20,7 @@ Interface simples e intuitiva
 🖥️ Captura de Tela:
 
 Interface do Aplicativo
-![Interface do Aplicativo](fonte/cadastrarUSUARIO.jpg)
+![Interface do Aplicativo](publico/cadastrarUSUARIO.jpg)
 
 🚀 Como Executar
 Pré-requisitos:
