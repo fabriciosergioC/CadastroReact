@@ -71,3 +71,18 @@ HTML5/CSS3
 
 Git para controle de versão
 
+🤝 Contribuição
+Contribuições são bem-vindas! Siga estes passos:
+
+Faça um fork do projeto
+
+Crie uma branch para sua feature (git checkout -b feature/AmazingFeature)
+
+Commit suas mudanças (git commit -m 'Add some AmazingFeature')
+
+Push para a branch (git push origin feature/AmazingFeature)
+
+Abra um Pull Request
+
+📄 Licença
+Distribuído sob a licença MIT. Veja LICENSE para mais informações.
