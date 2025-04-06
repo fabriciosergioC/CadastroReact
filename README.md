@@ -17,11 +17,13 @@ Armazenamento local dos dados
 
 Interface simples e intuitiva
 
-🖥️ Captura de Tela
+🖥️ Captura de Tela:
+
 Interface do Aplicativo
 
 🚀 Como Executar
-Pré-requisitos
+Pré-requisitos:
+
 Node.js (versão 14 ou superior)
 
 npm ou yarn
