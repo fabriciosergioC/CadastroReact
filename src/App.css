@@ -1,0 +1,125 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.app {
+  display: flex;
+  min-height: 100vh;
+}
+
+header {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  background: #282c34;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  z-index: 100;
+}
+
+header h1 {
+  margin: 0;
+}
+
+.address-bar {
+  font-size: 12px;
+  color: #ccc;
+}
+
+.sidebar {
+  width: 200px;
+  background: #f0f0f0;
+  padding: 80px 20px 20px;
+  height: 100vh;
+  position: fixed;
+}
+
+.sidebar h2 {
+  font-size: 16px;
+  margin-bottom: 10px;
+}
+
+.sidebar ul {
+  list-style: none;
+  padding: 0;
+}
+
+.sidebar li {
+  padding: 5px 0;
+  cursor: pointer;
+}
+
+.sidebar li:hover {
+  color: #007bff;
+}
+
+.main-content {
+  margin-left: 240px;
+  padding: 80px 20px 20px;
+  flex: 1;
+}
+
+.main-content h2 {
+  color: #333;
+}
+
+.form-group {
+  margin-bottom: 15px;
+  max-width: 400px;
+}
+
+.form-group label {
+  display: block;
+  margin-bottom: 5px;
+  font-weight: bold;
+}
+
+.form-group input {
+  width: 100%;
+  padding: 8px;
+  box-sizing: border-box;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+button {
+  background: #007bff;
+  color: white;
+  border: none;
+  padding: 10px 15px;
+  cursor: pointer;
+  border-radius: 4px;
+  font-size: 16px;
+}
+
+button:hover {
+  background: #0056b3;
+}
+
+.usuarios-cadastrados {
+  margin-top: 30px;
+  max-width: 800px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 10px;
+}
+
+th, td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+}
+
+th {
+  background-color: #f2f2f2;
+}
+
+tr:nth-child(even) {
+  background-color: #f9f9f9;
+}
