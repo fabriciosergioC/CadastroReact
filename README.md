@@ -23,7 +23,7 @@ Interface do Aplicativo
 # Meu Projeto React
 
 <div align="center">
-  <img src="public/images/cadastrarUSUARIO.jpg" alt="Tela de Cadastro" width="600">
+  <img src="public/cadastrarUSUARIO.jpg" alt="Tela de Cadastro" width="600">
 </div>
 
 ## Funcionalidades
