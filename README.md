@@ -20,8 +20,15 @@ Interface simples e intuitiva
 🖥️ Captura de Tela:
 
 Interface do Aplicativo
-![Interface do Aplicativo](publico/cadastrarUSUARIO.jpg)
+# Meu Projeto React
 
+<div align="center">
+  <img src="public/images/cadastrarUSUARIO.jpg" alt="Tela de Cadastro" width="600">
+</div>
+
+## Funcionalidades
+- Cadastro de usuários
+- Listagem em tempo real
 🚀 Como Executar
 Pré-requisitos:
 
